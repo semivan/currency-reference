@@ -1,0 +1,2508 @@
+{
+    "AED": {
+        "name": "UAE Dirham",
+        "code": "AED",
+        "number": 784,
+        "minorUnits": 2,
+        "dividedInto": 100,
+        "symbols": [
+            ".د.إ",
+            "Dh"
+        ],
+        "translations": {
+            "en": "UAE Dirham",
+            "ru": "Дирхам ОАЭ"
+        }
+    },
+    "AFN": {
+        "name": "Afghani",
+        "code": "AFN",
+        "number": 971,
+        "minorUnits": 2,
+        "dividedInto": 100,
+        "symbols": [
+            "؋",
+            "Af"
+        ],
+        "translations": {
+            "en": "Afghani",
+            "ru": "Афгани"
+        }
+    },
+    "ALL": {
+        "name": "Lek",
+        "code": "ALL",
+        "number": 8,
+        "minorUnits": 2,
+        "dividedInto": 100,
+        "symbols": [
+            "L"
+        ],
+        "translations": {
+            "en": "Lek",
+            "ru": "Лек"
+        }
+    },
+    "AMD": {
+        "name": "Armenian Dram",
+        "code": "AMD",
+        "number": 51,
+        "minorUnits": 2,
+        "dividedInto": 100,
+        "symbols": [
+            "֏"
+        ],
+        "translations": {
+            "en": "Armenian Dram",
+            "ru": "Aрмянский драм"
+        }
+    },
+    "ANG": {
+        "name": "Netherlands Antillean Guilder",
+        "code": "ANG",
+        "number": 532,
+        "minorUnits": 2,
+        "dividedInto": 100,
+        "symbols": [
+            "ƒ"
+        ],
+        "translations": {
+            "en": "Netherlands Antillean Guilder",
+            "ru": "Нидерландский антильский гульден"
+        }
+    },
+    "AOA": {
+        "name": "Kwanza",
+        "code": "AOA",
+        "number": 973,
+        "minorUnits": 2,
+        "dividedInto": 100,
+        "symbols": [
+            "Kz"
+        ],
+        "translations": {
+            "en": "Kwanza",
+            "ru": "Кванза"
+        }
+    },
+    "ARS": {
+        "name": "Argentine Peso",
+        "code": "ARS",
+        "number": 32,
+        "minorUnits": 2,
+        "dividedInto": 100,
+        "symbols": [
+            "$"
+        ],
+        "translations": {
+            "en": "Argentine Peso",
+            "ru": "Aргентинское песо"
+        }
+    },
+    "AUD": {
+        "name": "Australian Dollar",
+        "code": "AUD",
+        "number": 36,
+        "minorUnits": 2,
+        "dividedInto": 100,
+        "symbols": [
+            "$"
+        ],
+        "translations": {
+            "en": "Australian Dollar",
+            "ru": "Aвстралийский доллар"
+        }
+    },
+    "AWG": {
+        "name": "Aruban Florin",
+        "code": "AWG",
+        "number": 533,
+        "minorUnits": 2,
+        "dividedInto": 100,
+        "symbols": [
+            "ƒ"
+        ],
+        "translations": {
+            "en": "Aruban Florin",
+            "ru": "Aрубанский флорин"
+        }
+    },
+    "AZN": {
+        "name": "Azerbaijan Manat",
+        "code": "AZN",
+        "number": 944,
+        "minorUnits": 2,
+        "dividedInto": 100,
+        "symbols": [
+            "₼"
+        ],
+        "translations": {
+            "en": "Azerbaijan Manat",
+            "ru": "Aзербайджанский манат"
+        }
+    },
+    "BAM": {
+        "name": "Convertible Mark",
+        "code": "BAM",
+        "number": 977,
+        "minorUnits": 2,
+        "dividedInto": 100,
+        "symbols": [
+            "KM"
+        ],
+        "translations": {
+            "en": "Convertible Mark",
+            "ru": "Конвертируемая марка"
+        }
+    },
+    "BBD": {
+        "name": "Barbados Dollar",
+        "code": "BBD",
+        "number": 52,
+        "minorUnits": 2,
+        "dividedInto": 100,
+        "symbols": [
+            "$"
+        ],
+        "translations": {
+            "en": "Barbados Dollar",
+            "ru": "Барбадосский доллар"
+        }
+    },
+    "BDT": {
+        "name": "Taka",
+        "code": "BDT",
+        "number": 50,
+        "minorUnits": 2,
+        "dividedInto": 100,
+        "symbols": [
+            "৳"
+        ],
+        "translations": {
+            "en": "Taka",
+            "ru": "Така"
+        }
+    },
+    "BGN": {
+        "name": "Bulgarian Lev",
+        "code": "BGN",
+        "number": 975,
+        "minorUnits": 2,
+        "dividedInto": 100,
+        "symbols": [
+            "лв"
+        ],
+        "translations": {
+            "en": "Bulgarian Lev",
+            "ru": "Болгарский лев"
+        }
+    },
+    "BHD": {
+        "name": "Bahraini Dinar",
+        "code": "BHD",
+        "number": 48,
+        "minorUnits": 3,
+        "dividedInto": 1000,
+        "symbols": [
+            ".د.ب",
+            "BD"
+        ],
+        "translations": {
+            "en": "Bahraini Dinar",
+            "ru": "Бахрейнский динар"
+        }
+    },
+    "BIF": {
+        "name": "Burundi Franc",
+        "code": "BIF",
+        "number": 108,
+        "minorUnits": 0,
+        "dividedInto": 1,
+        "symbols": [
+            "₣"
+        ],
+        "translations": {
+            "en": "Burundi Franc",
+            "ru": "Бурундийский франк"
+        }
+    },
+    "BMD": {
+        "name": "Bermudian Dollar",
+        "code": "BMD",
+        "number": 60,
+        "minorUnits": 2,
+        "dividedInto": 100,
+        "symbols": [
+            "$"
+        ],
+        "translations": {
+            "en": "Bermudian Dollar",
+            "ru": "Бермудский доллар"
+        }
+    },
+    "BND": {
+        "name": "Brunei Dollar",
+        "code": "BND",
+        "number": 96,
+        "minorUnits": 2,
+        "dividedInto": 100,
+        "symbols": [
+            "$"
+        ],
+        "translations": {
+            "en": "Brunei Dollar",
+            "ru": "Брунейский доллар"
+        }
+    },
+    "BOB": {
+        "name": "Boliviano",
+        "code": "BOB",
+        "number": 68,
+        "minorUnits": 2,
+        "dividedInto": 100,
+        "symbols": [
+            "$"
+        ],
+        "translations": {
+            "en": "Boliviano",
+            "ru": "Боливиано"
+        }
+    },
+    "BOV": {
+        "name": "Mvdol",
+        "code": "BOV",
+        "number": 984,
+        "minorUnits": 2,
+        "dividedInto": 1,
+        "symbols": [],
+        "translations": {
+            "en": "Mvdol",
+            "ru": "Мвдол"
+        }
+    },
+    "BRL": {
+        "name": "Brazilian Real",
+        "code": "BRL",
+        "number": 986,
+        "minorUnits": 2,
+        "dividedInto": 100,
+        "symbols": [
+            "$"
+        ],
+        "translations": {
+            "en": "Brazilian Real",
+            "ru": "Бразильский реал"
+        }
+    },
+    "BSD": {
+        "name": "Bahamian Dollar",
+        "code": "BSD",
+        "number": 44,
+        "minorUnits": 2,
+        "dividedInto": 100,
+        "symbols": [
+            "$"
+        ],
+        "translations": {
+            "en": "Bahamian Dollar",
+            "ru": "Багамский доллар"
+        }
+    },
+    "BTN": {
+        "name": "Ngultrum",
+        "code": "BTN",
+        "number": 64,
+        "minorUnits": 2,
+        "dividedInto": 100,
+        "symbols": [
+            "Nu"
+        ],
+        "translations": {
+            "en": "Ngultrum",
+            "ru": "Нгултрум"
+        }
+    },
+    "BWP": {
+        "name": "Pula",
+        "code": "BWP",
+        "number": 72,
+        "minorUnits": 2,
+        "dividedInto": 100,
+        "symbols": [
+            "P"
+        ],
+        "translations": {
+            "en": "Pula",
+            "ru": "Пула"
+        }
+    },
+    "BYN": {
+        "name": "Belarusian Ruble",
+        "code": "BYN",
+        "number": 933,
+        "minorUnits": 2,
+        "dividedInto": 100,
+        "symbols": [
+            "Br"
+        ],
+        "translations": {
+            "en": "Belarusian Ruble",
+            "ru": "Белорусский рубль"
+        }
+    },
+    "BZD": {
+        "name": "Belize Dollar",
+        "code": "BZD",
+        "number": 84,
+        "minorUnits": 2,
+        "dividedInto": 100,
+        "symbols": [
+            "$"
+        ],
+        "translations": {
+            "en": "Belize Dollar",
+            "ru": "Белизский доллар"
+        }
+    },
+    "CAD": {
+        "name": "Canadian Dollar",
+        "code": "CAD",
+        "number": 124,
+        "minorUnits": 2,
+        "dividedInto": 100,
+        "symbols": [
+            "$"
+        ],
+        "translations": {
+            "en": "Canadian Dollar",
+            "ru": "Канадский доллар"
+        }
+    },
+    "CDF": {
+        "name": "Congolese Franc",
+        "code": "CDF",
+        "number": 976,
+        "minorUnits": 2,
+        "dividedInto": 100,
+        "symbols": [
+            "₣"
+        ],
+        "translations": {
+            "en": "Congolese Franc",
+            "ru": "Конголезский франк"
+        }
+    },
+    "CHE": {
+        "name": "WIR Euro",
+        "code": "CHE",
+        "number": 947,
+        "minorUnits": 2,
+        "dividedInto": 1,
+        "symbols": [],
+        "translations": {
+            "en": "WIR Euro",
+            "ru": "WIR-евро"
+        }
+    },
+    "CHF": {
+        "name": "Swiss Franc",
+        "code": "CHF",
+        "number": 756,
+        "minorUnits": 2,
+        "dividedInto": 100,
+        "symbols": [
+            "₣"
+        ],
+        "translations": {
+            "en": "Swiss Franc",
+            "ru": "Швейцарский франк"
+        }
+    },
+    "CHW": {
+        "name": "WIR Franc",
+        "code": "CHW",
+        "number": 948,
+        "minorUnits": 2,
+        "dividedInto": 1,
+        "symbols": [],
+        "translations": {
+            "en": "WIR Franc",
+            "ru": "WIR-франк"
+        }
+    },
+    "CLF": {
+        "name": "Unidad de Fomento",
+        "code": "CLF",
+        "number": 990,
+        "minorUnits": 4,
+        "dividedInto": 1,
+        "symbols": [],
+        "translations": {
+            "en": "Unidad de Fomento",
+            "ru": "Единица развития"
+        }
+    },
+    "CLP": {
+        "name": "Chilean Peso",
+        "code": "CLP",
+        "number": 152,
+        "minorUnits": 0,
+        "dividedInto": 1,
+        "symbols": [
+            "$"
+        ],
+        "translations": {
+            "en": "Chilean Peso",
+            "ru": "Чилийское песо"
+        }
+    },
+    "CNY": {
+        "name": "Yuan Renminbi",
+        "code": "CNY",
+        "number": 156,
+        "minorUnits": 2,
+        "dividedInto": 100,
+        "symbols": [
+            "¥"
+        ],
+        "translations": {
+            "en": "Yuan Renminbi",
+            "ru": "Юань"
+        }
+    },
+    "COP": {
+        "name": "Colombian Peso",
+        "code": "COP",
+        "number": 170,
+        "minorUnits": 2,
+        "dividedInto": 100,
+        "symbols": [
+            "$"
+        ],
+        "translations": {
+            "en": "Colombian Peso",
+            "ru": "Колумбийское песо"
+        }
+    },
+    "COU": {
+        "name": "Unidad de Valor Real",
+        "code": "COU",
+        "number": 970,
+        "minorUnits": 2,
+        "dividedInto": 1,
+        "symbols": [],
+        "translations": {
+            "en": "Unidad de Valor Real",
+            "ru": "Единица реальной стоимости"
+        }
+    },
+    "CRC": {
+        "name": "Costa Rican Colon",
+        "code": "CRC",
+        "number": 188,
+        "minorUnits": 2,
+        "dividedInto": 100,
+        "symbols": [
+            "₡"
+        ],
+        "translations": {
+            "en": "Costa Rican Colon",
+            "ru": "Коста-риканский колон"
+        }
+    },
+    "CUC": {
+        "name": "Peso Convertible",
+        "code": "CUC",
+        "number": 931,
+        "minorUnits": 2,
+        "dividedInto": 1,
+        "symbols": [],
+        "translations": {
+            "en": "Peso Convertible",
+            "ru": "Конвертируемое песо"
+        }
+    },
+    "CUP": {
+        "name": "Cuban Peso",
+        "code": "CUP",
+        "number": 192,
+        "minorUnits": 2,
+        "dividedInto": 100,
+        "symbols": [
+            "$"
+        ],
+        "translations": {
+            "en": "Cuban Peso",
+            "ru": "Кубинское песо"
+        }
+    },
+    "CVE": {
+        "name": "Cape Verde Escudo",
+        "code": "CVE",
+        "number": 132,
+        "minorUnits": 2,
+        "dividedInto": 100,
+        "symbols": [
+            "$"
+        ],
+        "translations": {
+            "en": "Cape Verde Escudo",
+            "ru": "Эскудо Кабо-Верде"
+        }
+    },
+    "CZK": {
+        "name": "Czech Koruna",
+        "code": "CZK",
+        "number": 203,
+        "minorUnits": 2,
+        "dividedInto": 100,
+        "symbols": [
+            "Kč"
+        ],
+        "translations": {
+            "en": "Czech Koruna",
+            "ru": "Чешская крона"
+        }
+    },
+    "DJF": {
+        "name": "Djibouti Franc",
+        "code": "DJF",
+        "number": 262,
+        "minorUnits": 0,
+        "dividedInto": 1,
+        "symbols": [
+            "₣"
+        ],
+        "translations": {
+            "en": "Djibouti Franc",
+            "ru": "Франк Джибути"
+        }
+    },
+    "DKK": {
+        "name": "Danish Krone",
+        "code": "DKK",
+        "number": 208,
+        "minorUnits": 2,
+        "dividedInto": 100,
+        "symbols": [
+            "kr"
+        ],
+        "translations": {
+            "en": "Danish Krone",
+            "ru": "Датская крона"
+        }
+    },
+    "DOP": {
+        "name": "Dominican Peso",
+        "code": "DOP",
+        "number": 214,
+        "minorUnits": 2,
+        "dividedInto": 100,
+        "symbols": [
+            "$"
+        ],
+        "translations": {
+            "en": "Dominican Peso",
+            "ru": "Доминиканское песо"
+        }
+    },
+    "DZD": {
+        "name": "Algerian Dinar",
+        "code": "DZD",
+        "number": 12,
+        "minorUnits": 2,
+        "dividedInto": 100,
+        "symbols": [
+            ".د.ج",
+            "DA"
+        ],
+        "translations": {
+            "en": "Algerian Dinar",
+            "ru": "Алжирский динар"
+        }
+    },
+    "EGP": {
+        "name": "Egyptian Pound",
+        "code": "EGP",
+        "number": 818,
+        "minorUnits": 2,
+        "dividedInto": 100,
+        "symbols": [
+            ".ج.م",
+            "LE"
+        ],
+        "translations": {
+            "en": "Egyptian Pound",
+            "ru": "Египетский фунт"
+        }
+    },
+    "ERN": {
+        "name": "Nakfa",
+        "code": "ERN",
+        "number": 232,
+        "minorUnits": 2,
+        "dividedInto": 100,
+        "symbols": [
+            "Nfk"
+        ],
+        "translations": {
+            "en": "Nakfa",
+            "ru": "Накфа"
+        }
+    },
+    "ETB": {
+        "name": "Ethiopian Birr",
+        "code": "ETB",
+        "number": 230,
+        "minorUnits": 2,
+        "dividedInto": 100,
+        "symbols": [
+            "Br"
+        ],
+        "translations": {
+            "en": "Ethiopian Birr",
+            "ru": "Эфиопский быр"
+        }
+    },
+    "EUR": {
+        "name": "Euro",
+        "code": "EUR",
+        "number": 978,
+        "minorUnits": 2,
+        "dividedInto": 100,
+        "symbols": [
+            "€"
+        ],
+        "translations": {
+            "en": "Euro",
+            "ru": "Евро"
+        }
+    },
+    "FJD": {
+        "name": "Fiji Dollar",
+        "code": "FJD",
+        "number": 242,
+        "minorUnits": 2,
+        "dividedInto": 100,
+        "symbols": [
+            "$"
+        ],
+        "translations": {
+            "en": "Fiji Dollar",
+            "ru": "Доллар Фиджи"
+        }
+    },
+    "FKP": {
+        "name": "Falkland Islands Pound",
+        "code": "FKP",
+        "number": 238,
+        "minorUnits": 2,
+        "dividedInto": 100,
+        "symbols": [
+            "£"
+        ],
+        "translations": {
+            "en": "Falkland Islands Pound",
+            "ru": "Фунт Фолклендских островов"
+        }
+    },
+    "GBP": {
+        "name": "Pound Sterling",
+        "code": "GBP",
+        "number": 826,
+        "minorUnits": 2,
+        "dividedInto": 100,
+        "symbols": [
+            "£"
+        ],
+        "translations": {
+            "en": "Pound Sterling",
+            "ru": "Фунт стерлингов"
+        }
+    },
+    "GEL": {
+        "name": "Lari",
+        "code": "GEL",
+        "number": 981,
+        "minorUnits": 2,
+        "dividedInto": 100,
+        "symbols": [
+            "₾"
+        ],
+        "translations": {
+            "en": "Lari",
+            "ru": "Лари"
+        }
+    },
+    "GHS": {
+        "name": "Ghana Cedi",
+        "code": "GHS",
+        "number": 936,
+        "minorUnits": 2,
+        "dividedInto": 100,
+        "symbols": [
+            "₵"
+        ],
+        "translations": {
+            "en": "Ghana Cedi",
+            "ru": "Ганский седи"
+        }
+    },
+    "GIP": {
+        "name": "Gibraltar Pound",
+        "code": "GIP",
+        "number": 292,
+        "minorUnits": 2,
+        "dividedInto": 100,
+        "symbols": [
+            "£"
+        ],
+        "translations": {
+            "en": "Gibraltar Pound",
+            "ru": "Гибралтарский фунт"
+        }
+    },
+    "GMD": {
+        "name": "Dalasi",
+        "code": "GMD",
+        "number": 270,
+        "minorUnits": 2,
+        "dividedInto": 100,
+        "symbols": [
+            "D"
+        ],
+        "translations": {
+            "en": "Dalasi",
+            "ru": "Даласи"
+        }
+    },
+    "GNF": {
+        "name": "Guinean Franc",
+        "code": "GNF",
+        "number": 324,
+        "minorUnits": 0,
+        "dividedInto": 1,
+        "symbols": [
+            "₣"
+        ],
+        "translations": {
+            "en": "Guinean Franc",
+            "ru": "Гвинейский франк"
+        }
+    },
+    "GTQ": {
+        "name": "Quetzal",
+        "code": "GTQ",
+        "number": 320,
+        "minorUnits": 2,
+        "dividedInto": 100,
+        "symbols": [
+            "Q"
+        ],
+        "translations": {
+            "en": "Quetzal",
+            "ru": "Кетсаль"
+        }
+    },
+    "GYD": {
+        "name": "Guyana Dollar",
+        "code": "GYD",
+        "number": 328,
+        "minorUnits": 2,
+        "dividedInto": 100,
+        "symbols": [
+            "$"
+        ],
+        "translations": {
+            "en": "Guyana Dollar",
+            "ru": "Гайанский доллар"
+        }
+    },
+    "HKD": {
+        "name": "Hong Kong Dollar",
+        "code": "HKD",
+        "number": 344,
+        "minorUnits": 2,
+        "dividedInto": 100,
+        "symbols": [
+            "$"
+        ],
+        "translations": {
+            "en": "Hong Kong Dollar",
+            "ru": "Гонконгский доллар"
+        }
+    },
+    "HNL": {
+        "name": "Lempira",
+        "code": "HNL",
+        "number": 340,
+        "minorUnits": 2,
+        "dividedInto": 100,
+        "symbols": [
+            "L"
+        ],
+        "translations": {
+            "en": "Lempira",
+            "ru": "Лемпира"
+        }
+    },
+    "HRK": {
+        "name": "Kuna",
+        "code": "HRK",
+        "number": 191,
+        "minorUnits": 2,
+        "dividedInto": 100,
+        "symbols": [
+            "Kn"
+        ],
+        "translations": {
+            "en": "Kuna",
+            "ru": "Хорватская куна"
+        }
+    },
+    "HTG": {
+        "name": "Gourde",
+        "code": "HTG",
+        "number": 332,
+        "minorUnits": 2,
+        "dividedInto": 100,
+        "symbols": [
+            "G"
+        ],
+        "translations": {
+            "en": "Gourde",
+            "ru": "Гурд"
+        }
+    },
+    "HUF": {
+        "name": "Forint",
+        "code": "HUF",
+        "number": 348,
+        "minorUnits": 2,
+        "dividedInto": 100,
+        "symbols": [
+            "Ft"
+        ],
+        "translations": {
+            "en": "Forint",
+            "ru": "Форинт"
+        }
+    },
+    "IDR": {
+        "name": "Rupiah",
+        "code": "IDR",
+        "number": 360,
+        "minorUnits": 2,
+        "dividedInto": 100,
+        "symbols": [
+            "Rp"
+        ],
+        "translations": {
+            "en": "Rupiah",
+            "ru": "Индонезийская рупия"
+        }
+    },
+    "ILS": {
+        "name": "New Israeli Sheqel",
+        "code": "ILS",
+        "number": 376,
+        "minorUnits": 2,
+        "dividedInto": 100,
+        "symbols": [
+            "₪"
+        ],
+        "translations": {
+            "en": "New Israeli Sheqel",
+            "ru": "Новый израильский шекель"
+        }
+    },
+    "INR": {
+        "name": "Indian Rupee",
+        "code": "INR",
+        "number": 356,
+        "minorUnits": 2,
+        "dividedInto": 100,
+        "symbols": [
+            "₹"
+        ],
+        "translations": {
+            "en": "Indian Rupee",
+            "ru": "Индийская рупия"
+        }
+    },
+    "IQD": {
+        "name": "Iraqi Dinar",
+        "code": "IQD",
+        "number": 368,
+        "minorUnits": 3,
+        "dividedInto": 1000,
+        "symbols": [
+            ".د.ع",
+            "ID"
+        ],
+        "translations": {
+            "en": "Iraqi Dinar",
+            "ru": "Иракский динар"
+        }
+    },
+    "IRR": {
+        "name": "Iranian Rial",
+        "code": "IRR",
+        "number": 364,
+        "minorUnits": 2,
+        "dividedInto": 100,
+        "symbols": [
+            "﷼",
+            "IR"
+        ],
+        "translations": {
+            "en": "Iranian Rial",
+            "ru": "Иранский риал"
+        }
+    },
+    "ISK": {
+        "name": "Iceland Krona",
+        "code": "ISK",
+        "number": 352,
+        "minorUnits": 0,
+        "dividedInto": 1,
+        "symbols": [
+            "kr"
+        ],
+        "translations": {
+            "en": "Iceland Krona",
+            "ru": "Исландская крона"
+        }
+    },
+    "JMD": {
+        "name": "Jamaican Dollar",
+        "code": "JMD",
+        "number": 388,
+        "minorUnits": 2,
+        "dividedInto": 100,
+        "symbols": [
+            "$"
+        ],
+        "translations": {
+            "en": "Jamaican Dollar",
+            "ru": "Ямайский доллар"
+        }
+    },
+    "JOD": {
+        "name": "Jordanian Dinar",
+        "code": "JOD",
+        "number": 400,
+        "minorUnits": 3,
+        "dividedInto": 1000,
+        "symbols": [
+            ".د.إ",
+            "JD"
+        ],
+        "translations": {
+            "en": "Jordanian Dinar",
+            "ru": "Иорданский динар"
+        }
+    },
+    "JPY": {
+        "name": "Yen",
+        "code": "JPY",
+        "number": 392,
+        "minorUnits": 0,
+        "dividedInto": 1,
+        "symbols": [
+            "¥"
+        ],
+        "translations": {
+            "en": "Yen",
+            "ru": "Иена"
+        }
+    },
+    "KES": {
+        "name": "Kenyan Shilling",
+        "code": "KES",
+        "number": 404,
+        "minorUnits": 2,
+        "dividedInto": 100,
+        "symbols": [
+            "KSh"
+        ],
+        "translations": {
+            "en": "Kenyan Shilling",
+            "ru": "Кенийский шиллинг"
+        }
+    },
+    "KGS": {
+        "name": "Som",
+        "code": "KGS",
+        "number": 417,
+        "minorUnits": 2,
+        "dividedInto": 100,
+        "symbols": [
+            "с"
+        ],
+        "translations": {
+            "en": "Som",
+            "ru": "Сом"
+        }
+    },
+    "KHR": {
+        "name": "Riel",
+        "code": "KHR",
+        "number": 116,
+        "minorUnits": 2,
+        "dividedInto": 100,
+        "symbols": [
+            "៛"
+        ],
+        "translations": {
+            "en": "Riel",
+            "ru": "Риель"
+        }
+    },
+    "KMF": {
+        "name": "Comorian Franc",
+        "code": "KMF",
+        "number": 174,
+        "minorUnits": 0,
+        "dividedInto": 1,
+        "symbols": [
+            "₣"
+        ],
+        "translations": {
+            "en": "Comorian Franc",
+            "ru": "Франк Комор"
+        }
+    },
+    "KPW": {
+        "name": "North Korean Won",
+        "code": "KPW",
+        "number": 408,
+        "minorUnits": 2,
+        "dividedInto": 100,
+        "symbols": [
+            "원"
+        ],
+        "translations": {
+            "en": "North Korean Won",
+            "ru": "Северокорейская вона"
+        }
+    },
+    "KRW": {
+        "name": "South Korean Won",
+        "code": "KRW",
+        "number": 410,
+        "minorUnits": 0,
+        "dividedInto": 1,
+        "symbols": [
+            "₩"
+        ],
+        "translations": {
+            "en": "South Korean Won",
+            "ru": "Южнокорейская вона"
+        }
+    },
+    "KWD": {
+        "name": "Kuwaiti Dinar",
+        "code": "KWD",
+        "number": 414,
+        "minorUnits": 3,
+        "dividedInto": 1000,
+        "symbols": [
+            ".د.ك",
+            "KD"
+        ],
+        "translations": {
+            "en": "Kuwaiti Dinar",
+            "ru": "Кувейтский динар"
+        }
+    },
+    "KYD": {
+        "name": "Cayman Islands Dollar",
+        "code": "KYD",
+        "number": 136,
+        "minorUnits": 2,
+        "dividedInto": 100,
+        "symbols": [
+            "$"
+        ],
+        "translations": {
+            "en": "Cayman Islands Dollar",
+            "ru": "Доллар Островов Кайман"
+        }
+    },
+    "KZT": {
+        "name": "Tenge",
+        "code": "KZT",
+        "number": 398,
+        "minorUnits": 2,
+        "dividedInto": 100,
+        "symbols": [
+            "₸"
+        ],
+        "translations": {
+            "en": "Tenge",
+            "ru": "Тенге"
+        }
+    },
+    "LAK": {
+        "name": "Lao Kip",
+        "code": "LAK",
+        "number": 418,
+        "minorUnits": 2,
+        "dividedInto": 100,
+        "symbols": [
+            "₭"
+        ],
+        "translations": {
+            "en": "Lao Kip",
+            "ru": "Кип"
+        }
+    },
+    "LBP": {
+        "name": "Lebanese Pound",
+        "code": "LBP",
+        "number": 422,
+        "minorUnits": 2,
+        "dividedInto": 100,
+        "symbols": [
+            ".ل.ل"
+        ],
+        "translations": {
+            "en": "Lebanese Pound",
+            "ru": "Ливанский фунт"
+        }
+    },
+    "LKR": {
+        "name": "Sri Lanka Rupee",
+        "code": "LKR",
+        "number": 144,
+        "minorUnits": 2,
+        "dividedInto": 100,
+        "symbols": [
+            "Rs"
+        ],
+        "translations": {
+            "en": "Sri Lanka Rupee",
+            "ru": "Шри-ланкийская рупия"
+        }
+    },
+    "LRD": {
+        "name": "Liberian Dollar",
+        "code": "LRD",
+        "number": 430,
+        "minorUnits": 2,
+        "dividedInto": 100,
+        "symbols": [
+            "$"
+        ],
+        "translations": {
+            "en": "Liberian Dollar",
+            "ru": "Либерийский доллар"
+        }
+    },
+    "LSL": {
+        "name": "Loti",
+        "code": "LSL",
+        "number": 426,
+        "minorUnits": 2,
+        "dividedInto": 100,
+        "symbols": [
+            "L"
+        ],
+        "translations": {
+            "en": "Loti",
+            "ru": "Лоти Лесото (мн.ч. Малоти)"
+        }
+    },
+    "LYD": {
+        "name": "Libyan Dinar",
+        "code": "LYD",
+        "number": 434,
+        "minorUnits": 3,
+        "dividedInto": 1000,
+        "symbols": [
+            ".د.ل",
+            "LD"
+        ],
+        "translations": {
+            "en": "Libyan Dinar",
+            "ru": "Ливийский динар"
+        }
+    },
+    "MAD": {
+        "name": "Moroccan Dirham",
+        "code": "MAD",
+        "number": 504,
+        "minorUnits": 2,
+        "dividedInto": 100,
+        "symbols": [
+            ".د.م",
+            "Dh"
+        ],
+        "translations": {
+            "en": "Moroccan Dirham",
+            "ru": "Марокканский дирхам"
+        }
+    },
+    "MDL": {
+        "name": "Moldovan Leu",
+        "code": "MDL",
+        "number": 498,
+        "minorUnits": 2,
+        "dividedInto": 100,
+        "symbols": [
+            "L"
+        ],
+        "translations": {
+            "en": "Moldovan Leu",
+            "ru": "Молдавский лей"
+        }
+    },
+    "MGA": {
+        "name": "Malagasy Ariary",
+        "code": "MGA",
+        "number": 969,
+        "minorUnits": 2,
+        "dividedInto": 5,
+        "symbols": [
+            "Ar."
+        ],
+        "translations": {
+            "en": "Malagasy Ariary",
+            "ru": "Малагасийский ариари"
+        }
+    },
+    "MKD": {
+        "name": "Denar",
+        "code": "MKD",
+        "number": 807,
+        "minorUnits": 2,
+        "dividedInto": 100,
+        "symbols": [
+            "ден."
+        ],
+        "translations": {
+            "en": "Denar",
+            "ru": "Денар"
+        }
+    },
+    "MMK": {
+        "name": "Kyat",
+        "code": "MMK",
+        "number": 104,
+        "minorUnits": 2,
+        "dividedInto": 100,
+        "symbols": [
+            "K"
+        ],
+        "translations": {
+            "en": "Kyat",
+            "ru": "Кьят"
+        }
+    },
+    "MNT": {
+        "name": "Tugrik",
+        "code": "MNT",
+        "number": 496,
+        "minorUnits": 2,
+        "dividedInto": 100,
+        "symbols": [
+            "₮"
+        ],
+        "translations": {
+            "en": "Tugrik",
+            "ru": "Тугрик"
+        }
+    },
+    "MOP": {
+        "name": "Pataca",
+        "code": "MOP",
+        "number": 446,
+        "minorUnits": 2,
+        "dividedInto": 100,
+        "symbols": [
+            "$"
+        ],
+        "translations": {
+            "en": "Pataca",
+            "ru": "Патака"
+        }
+    },
+    "MRU": {
+        "name": "Ouguiya",
+        "code": "MRU",
+        "number": 929,
+        "minorUnits": 2,
+        "dividedInto": 5,
+        "symbols": [
+            "UM"
+        ],
+        "translations": {
+            "en": "Ouguiya",
+            "ru": "Угия"
+        }
+    },
+    "MUR": {
+        "name": "Mauritius Rupee",
+        "code": "MUR",
+        "number": 480,
+        "minorUnits": 2,
+        "dividedInto": 100,
+        "symbols": [
+            "Rs"
+        ],
+        "translations": {
+            "en": "Mauritius Rupee",
+            "ru": "Маврикийская рупия"
+        }
+    },
+    "MVR": {
+        "name": "Rufiyaa",
+        "code": "MVR",
+        "number": 462,
+        "minorUnits": 2,
+        "dividedInto": 100,
+        "symbols": [
+            ".ރ",
+            "Rf"
+        ],
+        "translations": {
+            "en": "Rufiyaa",
+            "ru": "Руфия"
+        }
+    },
+    "MWK": {
+        "name": "Malawi Kwacha",
+        "code": "MWK",
+        "number": 454,
+        "minorUnits": 2,
+        "dividedInto": 100,
+        "symbols": [
+            "K"
+        ],
+        "translations": {
+            "en": "Malawi Kwacha",
+            "ru": "Квача"
+        }
+    },
+    "MXN": {
+        "name": "Mexican Peso",
+        "code": "MXN",
+        "number": 484,
+        "minorUnits": 2,
+        "dividedInto": 100,
+        "symbols": [
+            "$"
+        ],
+        "translations": {
+            "en": "Mexican Peso",
+            "ru": "Мексиканское песо"
+        }
+    },
+    "MXV": {
+        "name": "Mexican Unidad de Inversion (UDI)",
+        "code": "MXV",
+        "number": 979,
+        "minorUnits": 2,
+        "dividedInto": 1,
+        "symbols": [],
+        "translations": {
+            "en": "Mexican Unidad de Inversion (UDI)",
+            "ru": "Мексиканская инверсионная единица UDI"
+        }
+    },
+    "MYR": {
+        "name": "Malaysian Ringgit",
+        "code": "MYR",
+        "number": 458,
+        "minorUnits": 2,
+        "dividedInto": 100,
+        "symbols": [
+            "RM"
+        ],
+        "translations": {
+            "en": "Malaysian Ringgit",
+            "ru": "Малайзийский ринггит"
+        }
+    },
+    "MZN": {
+        "name": "Mozambique Metical",
+        "code": "MZN",
+        "number": 943,
+        "minorUnits": 2,
+        "dividedInto": 100,
+        "symbols": [
+            "MT"
+        ],
+        "translations": {
+            "en": "Mozambique Metical",
+            "ru": "Мозамбикский метикал"
+        }
+    },
+    "NAD": {
+        "name": "Namibia Dollar",
+        "code": "NAD",
+        "number": 516,
+        "minorUnits": 2,
+        "dividedInto": 100,
+        "symbols": [
+            "N$"
+        ],
+        "translations": {
+            "en": "Namibia Dollar",
+            "ru": "Доллар Намибии"
+        }
+    },
+    "NGN": {
+        "name": "Naira",
+        "code": "NGN",
+        "number": 566,
+        "minorUnits": 2,
+        "dividedInto": 100,
+        "symbols": [
+            "₦"
+        ],
+        "translations": {
+            "en": "Naira",
+            "ru": "Найра"
+        }
+    },
+    "NIO": {
+        "name": "Cordoba Oro",
+        "code": "NIO",
+        "number": 558,
+        "minorUnits": 2,
+        "dividedInto": 100,
+        "symbols": [
+            "$"
+        ],
+        "translations": {
+            "en": "Cordoba Oro",
+            "ru": "Золотая кордоба"
+        }
+    },
+    "NOK": {
+        "name": "Norwegian Krone",
+        "code": "NOK",
+        "number": 578,
+        "minorUnits": 2,
+        "dividedInto": 100,
+        "symbols": [
+            "kr"
+        ],
+        "translations": {
+            "en": "Norwegian Krone",
+            "ru": "Норвежская крона"
+        }
+    },
+    "NPR": {
+        "name": "Nepalese Rupee",
+        "code": "NPR",
+        "number": 524,
+        "minorUnits": 2,
+        "dividedInto": 100,
+        "symbols": [
+            "NRs"
+        ],
+        "translations": {
+            "en": "Nepalese Rupee",
+            "ru": "Непальская рупия"
+        }
+    },
+    "NZD": {
+        "name": "New Zealand Dollar",
+        "code": "NZD",
+        "number": 554,
+        "minorUnits": 2,
+        "dividedInto": 100,
+        "symbols": [
+            "$"
+        ],
+        "translations": {
+            "en": "New Zealand Dollar",
+            "ru": "Новозеландский доллар"
+        }
+    },
+    "OMR": {
+        "name": "Rial Omani",
+        "code": "OMR",
+        "number": 512,
+        "minorUnits": 3,
+        "dividedInto": 1000,
+        "symbols": [
+            "﷼",
+            "RO"
+        ],
+        "translations": {
+            "en": "Rial Omani",
+            "ru": "Оманский риал"
+        }
+    },
+    "PAB": {
+        "name": "Balboa",
+        "code": "PAB",
+        "number": 590,
+        "minorUnits": 2,
+        "dividedInto": 100,
+        "symbols": [
+            "B/."
+        ],
+        "translations": {
+            "en": "Balboa",
+            "ru": "Бальбоа"
+        }
+    },
+    "PEN": {
+        "name": "Sol",
+        "code": "PEN",
+        "number": 604,
+        "minorUnits": 2,
+        "dividedInto": 100,
+        "symbols": [
+            "S/"
+        ],
+        "translations": {
+            "en": "Sol",
+            "ru": "Перуанский новый соль"
+        }
+    },
+    "PGK": {
+        "name": "Kina",
+        "code": "PGK",
+        "number": 598,
+        "minorUnits": 2,
+        "dividedInto": 100,
+        "symbols": [
+            "K"
+        ],
+        "translations": {
+            "en": "Kina",
+            "ru": "Кина"
+        }
+    },
+    "PHP": {
+        "name": "Philippine Peso",
+        "code": "PHP",
+        "number": 608,
+        "minorUnits": 2,
+        "dividedInto": 100,
+        "symbols": [
+            "₱"
+        ],
+        "translations": {
+            "en": "Philippine Peso",
+            "ru": "Филиппинское песо"
+        }
+    },
+    "PKR": {
+        "name": "Pakistan Rupee",
+        "code": "PKR",
+        "number": 586,
+        "minorUnits": 2,
+        "dividedInto": 100,
+        "symbols": [
+            "Rs"
+        ],
+        "translations": {
+            "en": "Pakistan Rupee",
+            "ru": "Пакистанская рупия"
+        }
+    },
+    "PLN": {
+        "name": "Zloty",
+        "code": "PLN",
+        "number": 985,
+        "minorUnits": 2,
+        "dividedInto": 100,
+        "symbols": [
+            "zł"
+        ],
+        "translations": {
+            "en": "Zloty",
+            "ru": "Злотый"
+        }
+    },
+    "PYG": {
+        "name": "Guarani",
+        "code": "PYG",
+        "number": 600,
+        "minorUnits": 0,
+        "dividedInto": 100,
+        "symbols": [
+            "₲"
+        ],
+        "translations": {
+            "en": "Guarani",
+            "ru": "Гуарани"
+        }
+    },
+    "QAR": {
+        "name": "Qatari Rial",
+        "code": "QAR",
+        "number": 634,
+        "minorUnits": 2,
+        "dividedInto": 100,
+        "symbols": [
+            "﷼",
+            "QR"
+        ],
+        "translations": {
+            "en": "Qatari Rial",
+            "ru": "Катарский риал"
+        }
+    },
+    "RON": {
+        "name": "Romanian Leu",
+        "code": "RON",
+        "number": 946,
+        "minorUnits": 2,
+        "dividedInto": 100,
+        "symbols": [
+            "L"
+        ],
+        "translations": {
+            "en": "Romanian Leu",
+            "ru": "Румынский лей"
+        }
+    },
+    "RSD": {
+        "name": "Serbian Dinar",
+        "code": "RSD",
+        "number": 941,
+        "minorUnits": 2,
+        "dividedInto": 100,
+        "symbols": [
+            "din.",
+            "дин."
+        ],
+        "translations": {
+            "en": "Serbian Dinar",
+            "ru": "Сербский динар"
+        }
+    },
+    "RUB": {
+        "name": "Russian Ruble",
+        "code": "RUB",
+        "number": 643,
+        "minorUnits": 2,
+        "dividedInto": 100,
+        "symbols": [
+            "₽"
+        ],
+        "translations": {
+            "en": "Russian Ruble",
+            "ru": "Российский рубль"
+        }
+    },
+    "RWF": {
+        "name": "Rwanda Franc",
+        "code": "RWF",
+        "number": 646,
+        "minorUnits": 0,
+        "dividedInto": 1,
+        "symbols": [
+            "₣"
+        ],
+        "translations": {
+            "en": "Rwanda Franc",
+            "ru": "Франк Руанды"
+        }
+    },
+    "SAR": {
+        "name": "Saudi Riyal",
+        "code": "SAR",
+        "number": 682,
+        "minorUnits": 2,
+        "dividedInto": 100,
+        "symbols": [
+            "﷼",
+            "SR"
+        ],
+        "translations": {
+            "en": "Saudi Riyal",
+            "ru": "Саудовский риял"
+        }
+    },
+    "SBD": {
+        "name": "Solomon Islands Dollar",
+        "code": "SBD",
+        "number": 90,
+        "minorUnits": 2,
+        "dividedInto": 100,
+        "symbols": [
+            "$"
+        ],
+        "translations": {
+            "en": "Solomon Islands Dollar",
+            "ru": "Доллар Соломоновых Островов"
+        }
+    },
+    "SCR": {
+        "name": "Seychelles Rupee",
+        "code": "SCR",
+        "number": 690,
+        "minorUnits": 2,
+        "dividedInto": 100,
+        "symbols": [
+            "SRe"
+        ],
+        "translations": {
+            "en": "Seychelles Rupee",
+            "ru": "Сейшельская рупия"
+        }
+    },
+    "SDG": {
+        "name": "Sudanese Pound",
+        "code": "SDG",
+        "number": 938,
+        "minorUnits": 2,
+        "dividedInto": 100,
+        "symbols": [
+            "£"
+        ],
+        "translations": {
+            "en": "Sudanese Pound",
+            "ru": "Суданский фунт"
+        }
+    },
+    "SEK": {
+        "name": "Swedish Krona",
+        "code": "SEK",
+        "number": 752,
+        "minorUnits": 2,
+        "dividedInto": 100,
+        "symbols": [
+            "kr"
+        ],
+        "translations": {
+            "en": "Swedish Krona",
+            "ru": "Шведская крона"
+        }
+    },
+    "SGD": {
+        "name": "Singapore Dollar",
+        "code": "SGD",
+        "number": 702,
+        "minorUnits": 2,
+        "dividedInto": 100,
+        "symbols": [
+            "$"
+        ],
+        "translations": {
+            "en": "Singapore Dollar",
+            "ru": "Сингапурский доллар"
+        }
+    },
+    "SHP": {
+        "name": "Saint Helena Pound",
+        "code": "SHP",
+        "number": 654,
+        "minorUnits": 2,
+        "dividedInto": 100,
+        "symbols": [
+            "£"
+        ],
+        "translations": {
+            "en": "Saint Helena Pound",
+            "ru": "Фунт Святой Елены"
+        }
+    },
+    "SLE": {
+        "name": "Leone",
+        "code": "SLE",
+        "number": 925,
+        "minorUnits": 2,
+        "dividedInto": 1,
+        "symbols": [],
+        "translations": {
+            "en": "Leone",
+            "ru": "Сьерра-леонский леоне"
+        }
+    },
+    "SLL": {
+        "name": "Leone",
+        "code": "SLL",
+        "number": 694,
+        "minorUnits": 2,
+        "dividedInto": 100,
+        "symbols": [
+            "Le"
+        ],
+        "translations": {
+            "en": "Leone",
+            "ru": "Леоне"
+        }
+    },
+    "SOS": {
+        "name": "Somali Shilling",
+        "code": "SOS",
+        "number": 706,
+        "minorUnits": 2,
+        "dividedInto": 100,
+        "symbols": [
+            "S"
+        ],
+        "translations": {
+            "en": "Somali Shilling",
+            "ru": "Сомалийский шиллинг"
+        }
+    },
+    "SRD": {
+        "name": "Surinam Dollar",
+        "code": "SRD",
+        "number": 968,
+        "minorUnits": 2,
+        "dividedInto": 100,
+        "symbols": [
+            "$"
+        ],
+        "translations": {
+            "en": "Surinam Dollar",
+            "ru": "Суринамский доллар"
+        }
+    },
+    "SSP": {
+        "name": "South Sudanese Pound",
+        "code": "SSP",
+        "number": 728,
+        "minorUnits": 2,
+        "dividedInto": 100,
+        "symbols": [
+            "SSP"
+        ],
+        "translations": {
+            "en": "South Sudanese Pound",
+            "ru": "Южносуданский фунт"
+        }
+    },
+    "STN": {
+        "name": "Dobra",
+        "code": "STN",
+        "number": 930,
+        "minorUnits": 2,
+        "dividedInto": 100,
+        "symbols": [
+            "Db"
+        ],
+        "translations": {
+            "en": "Dobra",
+            "ru": "Добра"
+        }
+    },
+    "SVC": {
+        "name": "El Salvador Colon",
+        "code": "SVC",
+        "number": 222,
+        "minorUnits": 2,
+        "dividedInto": 100,
+        "symbols": [
+            "₡"
+        ],
+        "translations": {
+            "en": "El Salvador Colon",
+            "ru": "Сальвадорский колон"
+        }
+    },
+    "SYP": {
+        "name": "Syrian Pound",
+        "code": "SYP",
+        "number": 760,
+        "minorUnits": 2,
+        "dividedInto": 100,
+        "symbols": [
+            ".ل.س",
+            "S£"
+        ],
+        "translations": {
+            "en": "Syrian Pound",
+            "ru": "Сирийский фунт"
+        }
+    },
+    "SZL": {
+        "name": "Lilangeni",
+        "code": "SZL",
+        "number": 748,
+        "minorUnits": 2,
+        "dividedInto": 100,
+        "symbols": [
+            "L"
+        ],
+        "translations": {
+            "en": "Lilangeni",
+            "ru": "Свазилендский лилангени (мн.ч. Эмалангени)"
+        }
+    },
+    "THB": {
+        "name": "Baht",
+        "code": "THB",
+        "number": 764,
+        "minorUnits": 2,
+        "dividedInto": 100,
+        "symbols": [
+            "฿"
+        ],
+        "translations": {
+            "en": "Baht",
+            "ru": "Бат"
+        }
+    },
+    "TJS": {
+        "name": "Somoni",
+        "code": "TJS",
+        "number": 972,
+        "minorUnits": 2,
+        "dividedInto": 100,
+        "symbols": [
+            "с."
+        ],
+        "translations": {
+            "en": "Somoni",
+            "ru": "Сомони"
+        }
+    },
+    "TMT": {
+        "name": "Turkmenistan New Manat",
+        "code": "TMT",
+        "number": 934,
+        "minorUnits": 2,
+        "dividedInto": 100,
+        "symbols": [
+            "m"
+        ],
+        "translations": {
+            "en": "Turkmenistan New Manat",
+            "ru": "Новый туркменский манат"
+        }
+    },
+    "TND": {
+        "name": "Tunisian Dinar",
+        "code": "TND",
+        "number": 788,
+        "minorUnits": 3,
+        "dividedInto": 1000,
+        "symbols": [
+            ".د.ت",
+            "TD"
+        ],
+        "translations": {
+            "en": "Tunisian Dinar",
+            "ru": "Тунисский динар"
+        }
+    },
+    "TOP": {
+        "name": "Pa’anga",
+        "code": "TOP",
+        "number": 776,
+        "minorUnits": 2,
+        "dividedInto": 100,
+        "symbols": [
+            "$"
+        ],
+        "translations": {
+            "en": "Pa’anga",
+            "ru": "Паанга"
+        }
+    },
+    "TRY": {
+        "name": "Turkish Lira",
+        "code": "TRY",
+        "number": 949,
+        "minorUnits": 2,
+        "dividedInto": 100,
+        "symbols": [
+            "₺"
+        ],
+        "translations": {
+            "en": "Turkish Lira",
+            "ru": "Турецкая лира"
+        }
+    },
+    "TTD": {
+        "name": "Trinidad and Tobago Dollar",
+        "code": "TTD",
+        "number": 780,
+        "minorUnits": 2,
+        "dividedInto": 100,
+        "symbols": [
+            "$"
+        ],
+        "translations": {
+            "en": "Trinidad and Tobago Dollar",
+            "ru": "Доллар Тринидада и Тобаго"
+        }
+    },
+    "TWD": {
+        "name": "New Taiwan Dollar",
+        "code": "TWD",
+        "number": 901,
+        "minorUnits": 2,
+        "dividedInto": 100,
+        "symbols": [
+            "NT$"
+        ],
+        "translations": {
+            "en": "New Taiwan Dollar",
+            "ru": "Новый тайваньский доллар"
+        }
+    },
+    "TZS": {
+        "name": "Tanzanian Shilling",
+        "code": "TZS",
+        "number": 834,
+        "minorUnits": 2,
+        "dividedInto": 100,
+        "symbols": [
+            "TSh"
+        ],
+        "translations": {
+            "en": "Tanzanian Shilling",
+            "ru": "Танзанийский шиллинг"
+        }
+    },
+    "UAH": {
+        "name": "Hryvnia",
+        "code": "UAH",
+        "number": 980,
+        "minorUnits": 2,
+        "dividedInto": 100,
+        "symbols": [
+            "₴"
+        ],
+        "translations": {
+            "en": "Hryvnia",
+            "ru": "Гривна"
+        }
+    },
+    "UGX": {
+        "name": "Uganda Shilling",
+        "code": "UGX",
+        "number": 800,
+        "minorUnits": 0,
+        "dividedInto": 100,
+        "symbols": [
+            "USh"
+        ],
+        "translations": {
+            "en": "Uganda Shilling",
+            "ru": "Угандийский шиллинг"
+        }
+    },
+    "USD": {
+        "name": "US Dollar",
+        "code": "USD",
+        "number": 840,
+        "minorUnits": 2,
+        "dividedInto": 100,
+        "symbols": [
+            "$"
+        ],
+        "translations": {
+            "en": "US Dollar",
+            "ru": "Доллар США"
+        }
+    },
+    "USN": {
+        "name": "US Dollar (Next day)",
+        "code": "USN",
+        "number": 997,
+        "minorUnits": 2,
+        "dividedInto": 1,
+        "symbols": [],
+        "translations": {
+            "en": "US Dollar (Next day)",
+            "ru": "Доллар следующего дня"
+        }
+    },
+    "UYI": {
+        "name": "Uruguay Peso en Unidades Indexadas (UI)",
+        "code": "UYI",
+        "number": 940,
+        "minorUnits": 0,
+        "dividedInto": 1,
+        "symbols": [],
+        "translations": {
+            "en": "Uruguay Peso en Unidades Indexadas (UI)",
+            "ru": "Уругвайское песо в индексированных единицах"
+        }
+    },
+    "UYU": {
+        "name": "Peso Uruguayo",
+        "code": "UYU",
+        "number": 858,
+        "minorUnits": 2,
+        "dividedInto": 100,
+        "symbols": [
+            "$"
+        ],
+        "translations": {
+            "en": "Peso Uruguayo",
+            "ru": "Уругвайское песо"
+        }
+    },
+    "UYW": {
+        "name": "Unidad Previsional",
+        "code": "UYW",
+        "number": 927,
+        "minorUnits": 4,
+        "dividedInto": 1,
+        "symbols": [],
+        "translations": {
+            "en": "Unidad Previsional",
+            "ru": "Unidad Previsional"
+        }
+    },
+    "UZS": {
+        "name": "Uzbekistan Sum",
+        "code": "UZS",
+        "number": 860,
+        "minorUnits": 2,
+        "dividedInto": 100,
+        "symbols": [
+            "so’m",
+            "сўм"
+        ],
+        "translations": {
+            "en": "Uzbekistan Sum",
+            "ru": "Узбекский сум"
+        }
+    },
+    "VED": {
+        "name": "Venezuelan bolívar",
+        "code": "VED",
+        "number": 926,
+        "minorUnits": 2,
+        "dividedInto": 1,
+        "symbols": [
+            "Bs."
+        ],
+        "translations": {
+            "en": "Venezuelan bolívar",
+            "ru": "Венесуэльский боливар"
+        }
+    },
+    "VES": {
+        "name": "Bolívar Soberano",
+        "code": "VES",
+        "number": 928,
+        "minorUnits": 2,
+        "dividedInto": 100,
+        "symbols": [
+            "Bs. S."
+        ],
+        "translations": {
+            "en": "Bolívar Soberano",
+            "ru": "Суверенный боливар"
+        }
+    },
+    "VND": {
+        "name": "Dong",
+        "code": "VND",
+        "number": 704,
+        "minorUnits": 0,
+        "dividedInto": 1,
+        "symbols": [
+            "₫"
+        ],
+        "translations": {
+            "en": "Dong",
+            "ru": "Донг"
+        }
+    },
+    "VUV": {
+        "name": "Vatu",
+        "code": "VUV",
+        "number": 548,
+        "minorUnits": 0,
+        "dividedInto": 1,
+        "symbols": [
+            "Vt"
+        ],
+        "translations": {
+            "en": "Vatu",
+            "ru": "Вату"
+        }
+    },
+    "WST": {
+        "name": "Tala",
+        "code": "WST",
+        "number": 882,
+        "minorUnits": 2,
+        "dividedInto": 100,
+        "symbols": [
+            "$"
+        ],
+        "translations": {
+            "en": "Tala",
+            "ru": "Тала"
+        }
+    },
+    "XAF": {
+        "name": "CFA Franc BEAC",
+        "code": "XAF",
+        "number": 950,
+        "minorUnits": 0,
+        "dividedInto": 1,
+        "symbols": [
+            "₣"
+        ],
+        "translations": {
+            "en": "CFA Franc BEAC",
+            "ru": "Франк КФА BEAC"
+        }
+    },
+    "XAG": {
+        "name": "Silver",
+        "code": "XAG",
+        "number": 961,
+        "minorUnits": 0,
+        "dividedInto": 1,
+        "symbols": [],
+        "translations": {
+            "en": "Silver",
+            "ru": "Серебро"
+        }
+    },
+    "XAU": {
+        "name": "Gold",
+        "code": "XAU",
+        "number": 959,
+        "minorUnits": 0,
+        "dividedInto": 1,
+        "symbols": [],
+        "translations": {
+            "en": "Gold",
+            "ru": "Золото"
+        }
+    },
+    "XBA": {
+        "name": "Bond Markets Unit European Composite Unit (EURCO)",
+        "code": "XBA",
+        "number": 955,
+        "minorUnits": 0,
+        "dividedInto": 1,
+        "symbols": [],
+        "translations": {
+            "en": "Bond Markets Unit European Composite Unit (EURCO)",
+            "ru": "Европейская составная единица EURCO"
+        }
+    },
+    "XBB": {
+        "name": "Bond Markets Unit European Monetary Unit (E.M.U.-6)",
+        "code": "XBB",
+        "number": 956,
+        "minorUnits": 0,
+        "dividedInto": 1,
+        "symbols": [],
+        "translations": {
+            "en": "Bond Markets Unit European Monetary Unit (E.M.U.-6)",
+            "ru": "Европейская валютная единица EMU-6"
+        }
+    },
+    "XBC": {
+        "name": "Bond Markets Unit European Unit of Account 9 (E.U.A.-9)",
+        "code": "XBC",
+        "number": 957,
+        "minorUnits": 0,
+        "dividedInto": 1,
+        "symbols": [],
+        "translations": {
+            "en": "Bond Markets Unit European Unit of Account 9 (E.U.A.-9)",
+            "ru": "Европейская расчётная единица EUA-9"
+        }
+    },
+    "XBD": {
+        "name": "Bond Markets Unit European Unit of Account 17 (E.U.A.-17)",
+        "code": "XBD",
+        "number": 958,
+        "minorUnits": 0,
+        "dividedInto": 1,
+        "symbols": [],
+        "translations": {
+            "en": "Bond Markets Unit European Unit of Account 17 (E.U.A.-17)",
+            "ru": "Европейская расчётная единица EUA-17"
+        }
+    },
+    "XCD": {
+        "name": "East Caribbean Dollar",
+        "code": "XCD",
+        "number": 951,
+        "minorUnits": 2,
+        "dividedInto": 100,
+        "symbols": [
+            "$"
+        ],
+        "translations": {
+            "en": "East Caribbean Dollar",
+            "ru": "Восточно-карибский доллар"
+        }
+    },
+    "XDR": {
+        "name": "SDR (Special Drawing Right)",
+        "code": "XDR",
+        "number": 960,
+        "minorUnits": 0,
+        "dividedInto": 1,
+        "symbols": [],
+        "translations": {
+            "en": "SDR (Special Drawing Right)",
+            "ru": "Специальные права заимствования (СДР)"
+        }
+    },
+    "XOF": {
+        "name": "CFA Franc BCEAO",
+        "code": "XOF",
+        "number": 952,
+        "minorUnits": 0,
+        "dividedInto": 1,
+        "symbols": [
+            "₣"
+        ],
+        "translations": {
+            "en": "CFA Franc BCEAO",
+            "ru": "Франк КФА BCEAO"
+        }
+    },
+    "XPD": {
+        "name": "Palladium",
+        "code": "XPD",
+        "number": 964,
+        "minorUnits": 0,
+        "dividedInto": 1,
+        "symbols": [],
+        "translations": {
+            "en": "Palladium",
+            "ru": "Палладий"
+        }
+    },
+    "XPF": {
+        "name": "CFP Franc",
+        "code": "XPF",
+        "number": 953,
+        "minorUnits": 0,
+        "dividedInto": 1,
+        "symbols": [
+            "₣"
+        ],
+        "translations": {
+            "en": "CFP Franc",
+            "ru": "Франк КФП"
+        }
+    },
+    "XPT": {
+        "name": "Platinum",
+        "code": "XPT",
+        "number": 962,
+        "minorUnits": 0,
+        "dividedInto": 1,
+        "symbols": [],
+        "translations": {
+            "en": "Platinum",
+            "ru": "Платина"
+        }
+    },
+    "XSU": {
+        "name": "Sucre",
+        "code": "XSU",
+        "number": 994,
+        "minorUnits": 0,
+        "dividedInto": 1,
+        "symbols": [],
+        "translations": {
+            "en": "Sucre",
+            "ru": "Сукре"
+        }
+    },
+    "XTS": {
+        "name": "Codes specifically reserved for testing purposes",
+        "code": "XTS",
+        "number": 963,
+        "minorUnits": 0,
+        "dividedInto": 1,
+        "symbols": [],
+        "translations": {
+            "en": "Codes specifically reserved for testing purposes",
+            "ru": "Коды, специально зарезервированные для тестирования"
+        }
+    },
+    "XUA": {
+        "name": "ADB Unit of Account",
+        "code": "XUA",
+        "number": 965,
+        "minorUnits": 0,
+        "dividedInto": 1,
+        "symbols": [],
+        "translations": {
+            "en": "ADB Unit of Account",
+            "ru": "Расчётная единица ADB"
+        }
+    },
+    "XXX": {
+        "name": "The codes assigned for transactions where no currency is involved",
+        "code": "XXX",
+        "number": 999,
+        "minorUnits": 0,
+        "dividedInto": 1,
+        "symbols": [],
+        "translations": {
+            "en": "The codes assigned for transactions where no currency is involved",
+            "ru": "Коды, назначенные для транзакций, в которых не задействована валюта"
+        }
+    },
+    "YER": {
+        "name": "Yemeni Rial",
+        "code": "YER",
+        "number": 886,
+        "minorUnits": 2,
+        "dividedInto": 100,
+        "symbols": [
+            "﷼",
+            "YR"
+        ],
+        "translations": {
+            "en": "Yemeni Rial",
+            "ru": "Йеменский риал"
+        }
+    },
+    "ZAR": {
+        "name": "Rand",
+        "code": "ZAR",
+        "number": 710,
+        "minorUnits": 2,
+        "dividedInto": 100,
+        "symbols": [
+            "R"
+        ],
+        "translations": {
+            "en": "Rand",
+            "ru": "Рэнд"
+        }
+    },
+    "ZMW": {
+        "name": "Zambian Kwacha",
+        "code": "ZMW",
+        "number": 967,
+        "minorUnits": 2,
+        "dividedInto": 100,
+        "symbols": [
+            "K"
+        ],
+        "translations": {
+            "en": "Zambian Kwacha",
+            "ru": "Замбийская квача"
+        }
+    },
+    "ZWL": {
+        "name": "Zimbabwe Dollar",
+        "code": "ZWL",
+        "number": 932,
+        "minorUnits": 2,
+        "dividedInto": 100,
+        "symbols": [
+            "Z$"
+        ],
+        "translations": {
+            "en": "Zimbabwe Dollar",
+            "ru": "Доллар Зимбабве"
+        }
+    }
+}

@@ -1,0 +1,30 @@
+{
+  "name": "currency-reference",
+  "version": "1.0.0",
+  "description": "Currency reference (ISO 4217)",
+  "main": "dist/currencies.js",
+  "types": " dist/currencies.d.ts",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/semivan/currency-reference"
+  },
+  "author": "Ivan Semenikhin <semenihin.ivan@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "build": "tsc --build",
+    "clean": "tsc --build --clean"
+  },
+  "keywords": [
+    "typescript",
+    "javascript",
+    "currencies",
+    "currency",
+    "reference",
+    "ISO",
+    "4217"
+  ],
+  "devDependencies": {
+    "@types/node": "^18.0.6",
+    "typescript": "^4.7.4"
+  }
+}
